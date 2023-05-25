@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.723,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.010,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.295,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.100,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.673,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.720,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.318,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.039,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>2023.05.25 21:01:44.816,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>2023.05.25 21:01:47.637,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>2023.05.25 21:16:43.998,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit6.cpp</Transaction>
+    <Transaction>2023.05.25 21:45:32.483,C:\Users\user\Documents\Embarcadero\Studio\Projects\Задание 6\Win32\Debug\Unit6.cpp=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit6.cpp</Transaction>
+    <Transaction>2023.05.25 21:45:32.483,C:\Users\user\Documents\Embarcadero\Studio\Projects\Задание 6\Win32\Debug\Unit6.h=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit6.h</Transaction>
+    <Transaction>2023.05.25 21:45:32.483,C:\Users\user\Documents\Embarcadero\Studio\Projects\Задание 6\Win32\Debug\Unit6.dfm=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2023.05.25 21:45:35.202,C:\Users\user\Documents\Embarcadero\Studio\Projects\Задание 6\Win32\Debug\Unit5.cpp=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>2023.05.25 21:45:35.202,C:\Users\user\Documents\Embarcadero\Studio\Projects\Задание 6\Win32\Debug\Unit5.dfm=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.dfm</Transaction>
+    <Transaction>2023.05.25 21:45:35.202,C:\Users\user\Documents\Embarcadero\Studio\Projects\Задание 6\Win32\Debug\Unit5.h=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.h</Transaction>
+    <Transaction>2023.05.25 21:45:36.566,C:\Users\user\Documents\Embarcadero\Studio\Projects\Задание 6\Win32\Debug\Project4PCH1.h=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>2023.05.25 21:45:37.864,C:\Users\user\Documents\Embarcadero\Studio\Projects\Задание 6\Win32\Debug\Project4.cbproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project4.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
